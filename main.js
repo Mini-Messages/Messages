@@ -1,3 +1,4 @@
-function login(user,password){
+const database = getDatabase(app);
+function login(){
   
 }
